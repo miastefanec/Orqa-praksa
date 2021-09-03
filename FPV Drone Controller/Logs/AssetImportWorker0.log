@@ -11,19 +11,19 @@ C:\Program Files\Unity\Hub\Editor\2021.1.12f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/Intern/Desktop/FPV Drone Controller
+C:/Users/Intern/Desktop/Orqa-praksa/FPV Drone Controller
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-56766
-Successfully changed project path to: C:/Users/Intern/Desktop/FPV Drone Controller
-C:/Users/Intern/Desktop/FPV Drone Controller
+60698
+Successfully changed project path to: C:/Users/Intern/Desktop/Orqa-praksa/FPV Drone Controller
+C:/Users/Intern/Desktop/Orqa-praksa/FPV Drone Controller
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 73.52 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 75.85 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.12f1 (afcadd793de6)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.12f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/Intern/Desktop/FPV Drone Controller/Assets
+[Subsystems] Discovering subsystems at path C:/Users/Intern/Desktop/Orqa-praksa/FPV Drone Controller/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -35,81 +35,81 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.12f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.12f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56684
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56820
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.12f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.12f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002368 seconds.
+Registered in 0.002287 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 83.09 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 83.35 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.645 seconds
+- Completed reload, in  1.664 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1645ms)
+	ReloadAssembly (1664ms)
 		BeginReloadAssembly (47ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (453ms)
-			LoadAssemblies (46ms)
+		EndReloadAssembly (436ms)
+			LoadAssemblies (45ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (154ms)
+			SetupTypeCache (151ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (32ms)
-			SetupLoadedEditorAssemblies (220ms)
+			RebuildScriptCaches (31ms)
+			SetupLoadedEditorAssemblies (211ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (8ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (83ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (99ms)
-				ProcessInitializeOnLoadMethodAttributes (28ms)
+				ProcessInitializeOnLoadAttributes (91ms)
+				ProcessInitializeOnLoadMethodAttributes (27ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003807 seconds.
+Registered in 0.004011 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Intern\Desktop\FPV Drone Controller\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Intern\Desktop\FPV Drone Controller\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Intern\Desktop\Orqa-praksa\FPV Drone Controller\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Intern\Desktop\Orqa-praksa\FPV Drone Controller\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.016 seconds
+- Completed reload, in  1.059 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1017ms)
-		BeginReloadAssembly (135ms)
+	ReloadAssembly (1060ms)
+		BeginReloadAssembly (130ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
+			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (18ms)
-		EndReloadAssembly (829ms)
-			LoadAssemblies (81ms)
+			CreateAndSetChildDomain (19ms)
+		EndReloadAssembly (874ms)
+			LoadAssemblies (86ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (300ms)
+			SetupTypeCache (327ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (52ms)
-			SetupLoadedEditorAssemblies (304ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (323ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (6ms)
+				InitializePlatformSupportModulesInManaged (7ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (68ms)
-				ProcessInitializeOnLoadAttributes (220ms)
-				ProcessInitializeOnLoadMethodAttributes (4ms)
+				BeforeProcessingInitializeOnLoad (67ms)
+				ProcessInitializeOnLoadAttributes (238ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
 				AfterProcessingInitializeOnLoad (5ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -118,14 +118,14 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.72 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2973 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 106.6 MB.
-System memory in use after: 106.7 MB.
+System memory in use before: 107.0 MB.
+System memory in use after: 107.2 MB.
 
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 3417.
-Total: 3.267500 ms (FindLiveObjects: 0.247900 ms CreateObjectMapping: 0.100900 ms MarkObjects: 2.820600 ms  DeleteObjects: 0.096300 ms)
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 3418.
+Total: 2.214900 ms (FindLiveObjects: 0.190200 ms CreateObjectMapping: 0.090200 ms MarkObjects: 1.848100 ms  DeleteObjects: 0.085400 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -139,157 +139,865 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Drones
-  artifactKey: Guid(4b3ff40bf2162a140ad1f2a13cfd492d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drones using Guid(4b3ff40bf2162a140ad1f2a13cfd492d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ea9ef707c09e09cdf56183badd81d0f') in 0.011535 seconds 
+  path: Packages/com.unity.textmeshpro/package.json
+  artifactKey: Guid(220e9325710f4235a43492dd1ee4980d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/package.json using Guid(220e9325710f4235a43492dd1ee4980d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c6d4de5db3a39bcb3575c98dc9df750') in 0.044051 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000791 seconds.
-  path: Assets/Drones/Course Assets
-  artifactKey: Guid(416a55959c868434b9dab821cc16d117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drones/Course Assets using Guid(416a55959c868434b9dab821cc16d117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d8bc9d79fb08cff2c7fc0510196c4fc') in 0.006062 seconds 
+  Time since last request: 46.552247 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85059f4f9e1a832ed95adaa0d25c5c4c') in 0.010851 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.653084 seconds.
-  path: Assets/Drones/Course Assets/Models
-  artifactKey: Guid(7df3903f65184ed40a689f3357129057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drones/Course Assets/Models using Guid(7df3903f65184ed40a689f3357129057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41f800967a8d8a48c569f8ab32426ace') in 0.015950 seconds 
+  Time since last request: 12.916348 seconds.
+  path: Assets/Scenes/Menu.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Menu.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf1b178b59ac682185fe910660ae9a81') in 0.007683 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.747200 seconds.
-  path: Assets/Drones/Course Assets/Models/180_Arch
-  artifactKey: Guid(4ec654e4b72a6704e978d30e18ace459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drones/Course Assets/Models/180_Arch using Guid(4ec654e4b72a6704e978d30e18ace459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bacced6adb93eb5f9386b5b16a00c72') in 0.007268 seconds 
+  Time since last request: 516.533434 seconds.
+  path: Assets/Drones/DemoCourse_Nimble.unity
+  artifactKey: Guid(1b8401aac7b243f4db01bbcc286e7631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DemoCourse_Nimble.unity using Guid(1b8401aac7b243f4db01bbcc286e7631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2efb1e0fda4a5e78ea2ac9f44a45fd47') in 0.009799 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.504591 seconds.
-  path: Assets/Drones/Course Assets/Models/180_Arch/180_Arch.prefab
-  artifactKey: Guid(9b8f391413d8b0a4fbfd836691b385b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drones/Course Assets/Models/180_Arch/180_Arch.prefab using Guid(9b8f391413d8b0a4fbfd836691b385b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '972f9fa03662d871cdaba9080acf3295') in 0.293840 seconds 
+  Time since last request: 1.547380 seconds.
+  path: Assets/Drones/RacingFolder
+  artifactKey: Guid(e481f8ee3a9af6e4f821b87d7c656392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/RacingFolder using Guid(e481f8ee3a9af6e4f821b87d7c656392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '707f0e67d83dee9fe88a0b9328c09ba2') in 0.008236 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.877730 seconds.
-  path: Assets/Drones/Course Assets/Models/180_Arch/pb_Mesh-1964466.asset
-  artifactKey: Guid(c67907665ce7f074db12a926cfaa9149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drones/Course Assets/Models/180_Arch/pb_Mesh-1964466.asset using Guid(c67907665ce7f074db12a926cfaa9149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91beb790c081f0016474f53e4cdbd203') in 0.154628 seconds 
+  Time since last request: 6.594426 seconds.
+  path: Assets/Drones/FlightRecorder
+  artifactKey: Guid(dd8ec0a9d8d9260438958d05807f4bd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/FlightRecorder using Guid(dd8ec0a9d8d9260438958d05807f4bd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7355800132a8f351ade8ff80d6dd392a') in 0.009470 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.281154 seconds.
-  path: Assets/Drones/Course Assets/Models/45_Arch/45_Arch.prefab
-  artifactKey: Guid(56e643ad1de89b04fbddff4a22519ffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drones/Course Assets/Models/45_Arch/45_Arch.prefab using Guid(56e643ad1de89b04fbddff4a22519ffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf609dc7b2e3aa3ca620da1b4c1759e1') in 0.098816 seconds 
+  Time since last request: 2.928754 seconds.
+  path: Assets/Drones/RacingFolder/Prefabs
+  artifactKey: Guid(d8bace38a5d91454eae277df1c3f19cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/RacingFolder/Prefabs using Guid(d8bace38a5d91454eae277df1c3f19cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cb8bcce1cd1753e4fc4d637f8090372') in 0.009308 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 14.474249 seconds.
-  path: Assets/Drones/DroneController2.0/Models/Drone_racing/RacingDrone.FBX
-  artifactKey: Guid(429acf98409e932458b8c0fec59b0710) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drones/DroneController2.0/Models/Drone_racing/RacingDrone.FBX using Guid(429acf98409e932458b8c0fec59b0710) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ada3b941e3b8a9c9d038ee08764d987c') in 0.451007 seconds 
+  Time since last request: 12.831248 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.010191 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005196 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Intern\Desktop\Orqa-praksa\FPV Drone Controller\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Intern\Desktop\Orqa-praksa\FPV Drone Controller\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.928 seconds
+Domain Reload Profiling:
+	ReloadAssembly (928ms)
+		BeginReloadAssembly (107ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (767ms)
+			LoadAssemblies (72ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (303ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (260ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (46ms)
+				ProcessInitializeOnLoadAttributes (199ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2967 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.9 MB.
+System memory in use after: 107.1 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3421.
+Total: 2.383000 ms (FindLiveObjects: 0.205500 ms CreateObjectMapping: 0.087400 ms MarkObjects: 1.999100 ms  DeleteObjects: 0.089900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 5.810415 seconds.
-  path: Assets/Drones/DroneController2.0/Models/Drone_racing/Materials
-  artifactKey: Guid(19880aef0bb1cc642b8b7e9b1c4e3792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drones/DroneController2.0/Models/Drone_racing/Materials using Guid(19880aef0bb1cc642b8b7e9b1c4e3792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ca50d7aaea308978125d76f492e3091') in 0.008389 seconds 
+  Time since last request: 716.040311 seconds.
+  path: Assets/Images
+  artifactKey: Guid(67faf869858c72e4f9fa64b02701d0e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images using Guid(67faf869858c72e4f9fa64b02701d0e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3941775c8c143ad0af3110629ec954da') in 0.010773 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.426175 seconds.
-  path: Assets/Drones/DroneController2.0/Models/Drone_racing/Images
-  artifactKey: Guid(a498ee7ada890df438605895ec32f2f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drones/DroneController2.0/Models/Drone_racing/Images using Guid(a498ee7ada890df438605895ec32f2f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1c1cd5d751988efdefbe44c4982aabf') in 0.008371 seconds 
+  Time since last request: 0.037534 seconds.
+  path: Assets/Images/background.jpg
+  artifactKey: Guid(92629b2620f508e4d96a0f297c132f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/background.jpg using Guid(92629b2620f508e4d96a0f297c132f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d29fd057d6b296c5cefeeadb5896377') in 0.086682 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 10.253305 seconds.
-  path: Assets/Drones/DroneController2.0/Models/Drone_racing/Images/emissive_MetallicSmoothness.png
-  artifactKey: Guid(8f9ff845f2060784fb85cfe3e9909978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drones/DroneController2.0/Models/Drone_racing/Images/emissive_MetallicSmoothness.png using Guid(8f9ff845f2060784fb85cfe3e9909978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1dd158eefffe416c0ee1f09c0854750') in 0.050160 seconds 
+  Time since last request: 27.019924 seconds.
+  path: Assets/Drones/DroneController2.0/Images/white-cricle.png
+  artifactKey: Guid(513c4b8bc756c2542be767321e1296c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Images/white-cricle.png using Guid(513c4b8bc756c2542be767321e1296c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe9cfb9c04a67d66cd46c9764ab13c7e') in 0.070325 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.558873 seconds.
-  path: Assets/Drones/DroneController2.0/Models/Drone_racing/Images/RD_AO.png
-  artifactKey: Guid(f5ec163f177b5a14e8041a95c527f43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drones/DroneController2.0/Models/Drone_racing/Images/RD_AO.png using Guid(f5ec163f177b5a14e8041a95c527f43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df90c50b5b1ee659fa902b5a62f3e580') in 0.025031 seconds 
+  Time since last request: 379.303285 seconds.
+  path: Assets/background.jpg
+  artifactKey: Guid(92629b2620f508e4d96a0f297c132f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/background.jpg using Guid(92629b2620f508e4d96a0f297c132f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '969c9641454aa34ee8b8c4aef3d82b20') in 0.025826 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005654 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Intern\Desktop\Orqa-praksa\FPV Drone Controller\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Intern\Desktop\Orqa-praksa\FPV Drone Controller\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.990 seconds
+Domain Reload Profiling:
+	ReloadAssembly (991ms)
+		BeginReloadAssembly (102ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (35ms)
+		EndReloadAssembly (825ms)
+			LoadAssemblies (78ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (323ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (289ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (54ms)
+				ProcessInitializeOnLoadAttributes (220ms)
+				ProcessInitializeOnLoadMethodAttributes (3ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3016 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.8 MB.
+System memory in use after: 116.4 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 3511.
+Total: 2.404000 ms (FindLiveObjects: 0.227300 ms CreateObjectMapping: 0.104300 ms MarkObjects: 1.815400 ms  DeleteObjects: 0.255800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.448507 seconds.
-  path: Assets/Drones/DroneController2.0/Models/Drone_nimble/Drone
-  artifactKey: Guid(af0e1e6397f6a1545af9761810233a97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drones/DroneController2.0/Models/Drone_nimble/Drone using Guid(af0e1e6397f6a1545af9761810233a97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3bbe351952e434a3f86e4e6cf58eefd') in 0.007813 seconds 
+  Time since last request: 525.353240 seconds.
+  path: Assets/Drones/DroneController2.0
+  artifactKey: Guid(3d2f9b291afbbae47b678fe0995be095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0 using Guid(3d2f9b291afbbae47b678fe0995be095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b59dfb7e11427f9a94b57c79875dde1') in 0.015045 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.640973 seconds.
-  path: Assets/Drones/DroneController2.0/Models/Drone_nimble/Drone/drone_reflection.png
-  artifactKey: Guid(8aea966e3b8540e48a7eacc38a5d056b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drones/DroneController2.0/Models/Drone_nimble/Drone/drone_reflection.png using Guid(8aea966e3b8540e48a7eacc38a5d056b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '714396cbc84163621704705210f753bd') in 0.028092 seconds 
+  Time since last request: 2.752453 seconds.
+  path: Assets/Drones/DroneController2.0/Images
+  artifactKey: Guid(2c20f432412da4ae7b401425c08b86a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Images using Guid(2c20f432412da4ae7b401425c08b86a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b21a1c5738757ab501c7dd3175f5729b') in 0.007114 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.723140 seconds.
-  path: Assets/Drones/DroneController2.0/Models/Drone_nimble/Drone/drone_albedo.png
-  artifactKey: Guid(02baa3dc5aad21a4a9bc323133c88537) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drones/DroneController2.0/Models/Drone_nimble/Drone/drone_albedo.png using Guid(02baa3dc5aad21a4a9bc323133c88537) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84d72b06c0150702f373f24d45c14dc6') in 0.028464 seconds 
+  Time since last request: 0.068321 seconds.
+  path: Assets/Drones/DroneController2.0/Images/grid_floor.png
+  artifactKey: Guid(ad5e8207b10264ced8b9bed5973c1b07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Images/grid_floor.png using Guid(ad5e8207b10264ced8b9bed5973c1b07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59e49941f36a125ebfd8c42a8d453db8') in 0.043897 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.184818 seconds.
-  path: Assets/Drones/DroneController2.0/Models/Drone_nimble/Drone/drone.FBX
-  artifactKey: Guid(c8884ce9692b7224a8a538b54194fbd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drones/DroneController2.0/Models/Drone_nimble/Drone/drone.FBX using Guid(c8884ce9692b7224a8a538b54194fbd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b1304b4943f7a661d5b364861e165cb') in 0.042682 seconds 
+  Time since last request: 0.000192 seconds.
+  path: Assets/Drones/DroneController2.0/Images/grid_walls.png
+  artifactKey: Guid(f2b1b3eea1bc24247a70a989033f2448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Images/grid_walls.png using Guid(f2b1b3eea1bc24247a70a989033f2448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78be4968eea043e4c9f385398424c2f8') in 0.022279 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.852485 seconds.
-  path: Assets/Drones/RacingFolder/Documentation.rtf
-  artifactKey: Guid(0836952010795674ca7a7e2271ba8a6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drones/RacingFolder/Documentation.rtf using Guid(0836952010795674ca7a7e2271ba8a6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0273a321f3973d0ba8af0570823472b') in 0.030562 seconds 
+  Time since last request: 1.966653 seconds.
+  path: Assets/Drones/DroneController2.0/Images/Icons
+  artifactKey: Guid(599274a0dff9ab14ba793743e86600a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Images/Icons using Guid(599274a0dff9ab14ba793743e86600a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03010965dd98ff4cf9da92bb88e1a296') in 0.007531 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 36.585287 seconds.
-  path: Assets/Drones/RacingFolder/Prefabs/TrackManager.prefab
-  artifactKey: Guid(01903a3f395930c4ea26bde1bd010837) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drones/RacingFolder/Prefabs/TrackManager.prefab using Guid(01903a3f395930c4ea26bde1bd010837) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b197a3a919ba44601b19f10ec343640f') in 0.009802 seconds 
+  Time since last request: 0.067381 seconds.
+  path: Assets/Drones/DroneController2.0/Images/Icons/airscrew.png
+  artifactKey: Guid(d28f2f82a5193ff4694791998c0f1860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Images/Icons/airscrew.png using Guid(d28f2f82a5193ff4694791998c0f1860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c96098094181eac88584b06016fee00') in 0.012883 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 5.950726 seconds.
-  path: Assets/Drones/RacingFolder/Prefabs/TrackManager_UI.prefab
-  artifactKey: Guid(53143f2272023e242a2c2db76c4d4c6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drones/RacingFolder/Prefabs/TrackManager_UI.prefab using Guid(53143f2272023e242a2c2db76c4d4c6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c2fa1973e15aac6ae7a4cb0ae0bbf64') in 0.020244 seconds 
+  Time since last request: 0.000420 seconds.
+  path: Assets/Drones/DroneController2.0/Images/Icons/graphic-design.png
+  artifactKey: Guid(751bd5e5b397f904dbb7487e5145cedc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Images/Icons/graphic-design.png using Guid(751bd5e5b397f904dbb7487e5145cedc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ef9965d033241022f394f6243cd143c') in 0.016164 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.438252 seconds.
-  path: Assets/Drones/RacingFolder/Prefabs/Point.prefab
-  artifactKey: Guid(cfae7e23f25c0cc4aa62ce79b24d4d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drones/RacingFolder/Prefabs/Point.prefab using Guid(cfae7e23f25c0cc4aa62ce79b24d4d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4636a5366e9a5d28758e4618f8dfe18') in 0.029655 seconds 
+  Time since last request: 0.000358 seconds.
+  path: Assets/Drones/DroneController2.0/Images/Icons/side-crash.png
+  artifactKey: Guid(6118198aa75298c4995c63edf8d0f9ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Images/Icons/side-crash.png using Guid(6118198aa75298c4995c63edf8d0f9ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96a91858d0a235611930d10a55436bd4') in 0.020482 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 11.658105 seconds.
-  path: Assets/Drones/Course Assets/Textures
-  artifactKey: Guid(b50f253a2a794a04b9b62123f516001b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drones/Course Assets/Textures using Guid(b50f253a2a794a04b9b62123f516001b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b21867c66d20a2d9bb846d77143aec33') in 0.008557 seconds 
+  Time since last request: 0.000211 seconds.
+  path: Assets/Drones/DroneController2.0/Images/Icons/camera.png
+  artifactKey: Guid(d6a7c284a028d4c4382cd91da64409dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Images/Icons/camera.png using Guid(d6a7c284a028d4c4382cd91da64409dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9f5ce2fff1daefa2ccd644ce2de1413') in 0.019319 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.243599 seconds.
-  path: Assets/Drones/Course Assets/Textures/Default_props.png
-  artifactKey: Guid(5fe0be2fe9cd79c4ba305f5e7f4d0d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drones/Course Assets/Textures/Default_props.png using Guid(5fe0be2fe9cd79c4ba305f5e7f4d0d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ef472d58af6b7b02966191119629592') in 0.026851 seconds 
+  Time since last request: 0.000218 seconds.
+  path: Assets/Drones/DroneController2.0/Images/Icons/remote-control.png
+  artifactKey: Guid(6dd574eddabb0b940810c3a259e56d7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Images/Icons/remote-control.png using Guid(6dd574eddabb0b940810c3a259e56d7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3f156cf68e238f38400513cf149986b') in 0.017016 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 5.117765 seconds.
-  path: Assets/Drones/Course Assets/Models/DroneStand
-  artifactKey: Guid(179ed9916730a2e48af050b1ff95954c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drones/Course Assets/Models/DroneStand using Guid(179ed9916730a2e48af050b1ff95954c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '817651c6d677a594496a7b77717c7416') in 0.009335 seconds 
+  Time since last request: 17.228695 seconds.
+  path: Assets/Drones/DroneController2.0/Images/MobileGraphics/circle.png
+  artifactKey: Guid(55c43f86daf45ae43ab9840bc27e32d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Images/MobileGraphics/circle.png using Guid(55c43f86daf45ae43ab9840bc27e32d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96d56d5546d87bd6172dfd82786c4c6b') in 0.016625 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.163147 seconds.
-  path: Assets/Drones/Course Assets/Models/DroneStand/Stand.FBX
-  artifactKey: Guid(f3250b0d171d6b64e907dad582dd80de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drones/Course Assets/Models/DroneStand/Stand.FBX using Guid(f3250b0d171d6b64e907dad582dd80de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '180fc4c4f8f22945fae317a1b14e37c5') in 0.028964 seconds 
+  Time since last request: 0.000514 seconds.
+  path: Assets/Drones/DroneController2.0/Images/MobileGraphics/downarrow.png
+  artifactKey: Guid(f193a036931f8b84d9121455308cbbf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Images/MobileGraphics/downarrow.png using Guid(f193a036931f8b84d9121455308cbbf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd357002e149667a12b718176b9a039c8') in 0.038834 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.872025 seconds.
-  path: Assets/Drones/Course Assets/Models/DroneStand/Stand.prefab
-  artifactKey: Guid(8b63a37eebd73484d94c27ac00235fad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drones/Course Assets/Models/DroneStand/Stand.prefab using Guid(8b63a37eebd73484d94c27ac00235fad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbbc315b4e7026c59c10bfc22a010fa8') in 0.274419 seconds 
+  Time since last request: 0.000453 seconds.
+  path: Assets/Drones/DroneController2.0/Images/MobileGraphics/left_arrow.png
+  artifactKey: Guid(f26b478ec2691b947888f0f85ad48856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Images/MobileGraphics/left_arrow.png using Guid(f26b478ec2691b947888f0f85ad48856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd60ee89d00ecddf95afa3bb572652ae3') in 0.019879 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.611177 seconds.
-  path: Assets/Drones/Course Assets/Models/DroneStand/Stand_Albedo.png
-  artifactKey: Guid(142b7698031d8be44b788938cb73b487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Drones/Course Assets/Models/DroneStand/Stand_Albedo.png using Guid(142b7698031d8be44b788938cb73b487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d64c592ba56511272960a68b0496abf') in 0.027314 seconds 
+  Time since last request: 0.000406 seconds.
+  path: Assets/Drones/DroneController2.0/Images/MobileGraphics/right arrow.png
+  artifactKey: Guid(33abb4258b7e88c42ac06113562c670a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Images/MobileGraphics/right arrow.png using Guid(33abb4258b7e88c42ac06113562c670a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7ddbb39c4cf4cfe530540ac45520d10') in 0.021483 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Drones/DroneController2.0/Images/MobileGraphics/triangle.png
+  artifactKey: Guid(d6cf70c4f20e5a141b9350392c61a37f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Images/MobileGraphics/triangle.png using Guid(d6cf70c4f20e5a141b9350392c61a37f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c174bdc54ffccf92cc8c22878d93202') in 0.023366 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Drones/DroneController2.0/Images/MobileGraphics/up arrow.png
+  artifactKey: Guid(3a063799eb1db5c459635bf7c85543fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Images/MobileGraphics/up arrow.png using Guid(3a063799eb1db5c459635bf7c85543fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6df369534f40b12a7ff732c6c190b9a3') in 0.019598 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Drones/DroneController2.0/Images/MobileGraphics/square.png
+  artifactKey: Guid(5257c6ed835b5fd47882a53f9ac176d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Images/MobileGraphics/square.png using Guid(5257c6ed835b5fd47882a53f9ac176d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c772ee071505236a92ce286b4de64dc1') in 0.021005 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Drones/DroneController2.0/Images/MobileGraphics/exbutton.png
+  artifactKey: Guid(f3459fa1035c78c4da673ae44a4c47db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Images/MobileGraphics/exbutton.png using Guid(f3459fa1035c78c4da673ae44a4c47db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '319eed92d8fe1cbb1b999ea4698f156e') in 0.019484 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.422297 seconds.
+  path: Assets/Drones/FlightRecorder/Prefabs
+  artifactKey: Guid(5c4bbed88f1198d42af6af7430166a57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/FlightRecorder/Prefabs using Guid(5c4bbed88f1198d42af6af7430166a57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffd7a8c84398fa030db90c279a1eb56f') in 0.008482 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.076063 seconds.
+  path: Assets/Drones/FlightRecorder/Prefabs/Flight Recorder.prefab
+  artifactKey: Guid(df44b77d8a01af34da8d3f0b48f512e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/FlightRecorder/Prefabs/Flight Recorder.prefab using Guid(df44b77d8a01af34da8d3f0b48f512e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10902708293b2bf31173eb2ac993ef87') in 0.045300 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.857464 seconds.
+  path: Assets/Drones/DroneController2.0/Prefabs/_Main Camera.prefab
+  artifactKey: Guid(b85fa43726502410d864f51647f6cd20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Prefabs/_Main Camera.prefab using Guid(b85fa43726502410d864f51647f6cd20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16027cb25b599641a716344a0a809a9b') in 0.010097 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000479 seconds.
+  path: Assets/Drones/DroneController2.0/Prefabs/SparkMain.prefab
+  artifactKey: Guid(d3dd34b5d20db6741868a700df9828de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Prefabs/SparkMain.prefab using Guid(d3dd34b5d20db6741868a700df9828de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd1d87229029c61a31b0d413b52911e2') in 0.020510 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000587 seconds.
+  path: Assets/Drones/DroneController2.0/Prefabs/Drone_UI_Canvas.prefab
+  artifactKey: Guid(633346621a1c0714cb64ac9fcb1ccdd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Prefabs/Drone_UI_Canvas.prefab using Guid(633346621a1c0714cb64ac9fcb1ccdd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4df102a796e4f3e47035d64bc9cdea9b') in 0.020367 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 64.321803 seconds.
+  path: Assets/Drones/Course Assets/Materials
+  artifactKey: Guid(e9603e8cee451d14ab9eb5854905e68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/Course Assets/Materials using Guid(e9603e8cee451d14ab9eb5854905e68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e54c8a5d68e3b084b64504f88f38874c') in 0.009424 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.033673 seconds.
+  path: Assets/Drones/Course Assets/Materials/Blue.mat
+  artifactKey: Guid(426ae51f92354004eac4e298fa54fafb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/Course Assets/Materials/Blue.mat using Guid(426ae51f92354004eac4e298fa54fafb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c5412ef8f7cb97a710076f6e5b1332e') in 0.047910 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Drones/Course Assets/Materials/Default_props.mat
+  artifactKey: Guid(1c020c5188de7e84d87b5ff206887d30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/Course Assets/Materials/Default_props.mat using Guid(1c020c5188de7e84d87b5ff206887d30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d7f4568d230ca2c5ffaf2010b862645') in 0.017688 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Drones/Course Assets/Materials/Red.mat
+  artifactKey: Guid(0215386d922635842933583aadd14d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/Course Assets/Materials/Red.mat using Guid(0215386d922635842933583aadd14d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60eea9a9b41a384af8c1e91420ff6e51') in 0.017487 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Drones/Course Assets/Materials/Green.mat
+  artifactKey: Guid(21fcf4af3ba61d7428c34603ec663d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/Course Assets/Materials/Green.mat using Guid(21fcf4af3ba61d7428c34603ec663d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03cdf7f24e4b8da74337b98c0302bb0a') in 0.022534 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.823911 seconds.
+  path: Assets/Drones/Course Assets/Models/45_Arch
+  artifactKey: Guid(082b2444c67b34f47855eef3fa9781cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/Course Assets/Models/45_Arch using Guid(082b2444c67b34f47855eef3fa9781cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1400f1f965e79d7a9668536247ebd706') in 0.003100 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.114734 seconds.
+  path: Assets/Drones/Course Assets/Models/DroneStand/stand.mat
+  artifactKey: Guid(37d195f3b7d5e2541a2a3da2420d9e1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/Course Assets/Models/DroneStand/stand.mat using Guid(37d195f3b7d5e2541a2a3da2420d9e1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a927d730b4e0db73e0ac3d8db2caecd4') in 0.024770 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Drones/Course Assets/Models/DroneStand/Stand_Specular.png
+  artifactKey: Guid(e79748298fc683444a156362a3f16598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/Course Assets/Models/DroneStand/Stand_Specular.png using Guid(e79748298fc683444a156362a3f16598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bde61434c5cabe3f9f8c7f4dd55122d2') in 0.013343 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Drones/Course Assets/Models/DroneStand/Stand_Normal.png
+  artifactKey: Guid(ba2049f27a8a45145a2411cd090568b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/Course Assets/Models/DroneStand/Stand_Normal.png using Guid(ba2049f27a8a45145a2411cd090568b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daf724759e4a2a70cce2c2c068e29bf1') in 0.020311 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Drones/Course Assets/Models/DroneStand/Stand_roughness.png
+  artifactKey: Guid(88214bbfa66c8a44c824db6d73ab03e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/Course Assets/Models/DroneStand/Stand_roughness.png using Guid(88214bbfa66c8a44c824db6d73ab03e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29615abb7a9ae93315ea2c059d3b7979') in 0.017436 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.884266 seconds.
+  path: Assets/Drones/Course Assets/Models/Loop_Arch/Loop_Arch.prefab
+  artifactKey: Guid(cc6314b0ffd23304ebd2c869a53ac090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/Course Assets/Models/Loop_Arch/Loop_Arch.prefab using Guid(cc6314b0ffd23304ebd2c869a53ac090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3a50f86a9a8832543b915733cdb3e45') in 0.024299 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.913859 seconds.
+  path: Assets/Drones/Course Assets/Models/45_Arch/pb_Mesh-1370986.asset
+  artifactKey: Guid(a638d2e680da1334cb4881ad279b8f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/Course Assets/Models/45_Arch/pb_Mesh-1370986.asset using Guid(a638d2e680da1334cb4881ad279b8f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecb3e693b88e157a358de36b8d5d0763') in 0.026652 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.460302 seconds.
+  path: Assets/Drones/Course Assets/Models/360_Arch/360_Arch.prefab
+  artifactKey: Guid(dbfe5f7bd31498c45bfd4912d6c0aa7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/Course Assets/Models/360_Arch/360_Arch.prefab using Guid(dbfe5f7bd31498c45bfd4912d6c0aa7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15cfa2b9102bbcddb97590d05d326669') in 0.021744 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000597 seconds.
+  path: Assets/Drones/Course Assets/Models/360_Arch/pb_Mesh-2907822.asset
+  artifactKey: Guid(e8cd0ac8625f1cb4aa5096b092d05428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/Course Assets/Models/360_Arch/pb_Mesh-2907822.asset using Guid(e8cd0ac8625f1cb4aa5096b092d05428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '872f879f2fb368ca9381e559a32b797c') in 0.013009 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.709445 seconds.
+  path: Assets/Drones/Course Assets/DemoCourse_LightingData/LightingData.asset
+  artifactKey: Guid(14cdd1cfa9518584ca7c6ea12a53e3a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/Course Assets/DemoCourse_LightingData/LightingData.asset using Guid(14cdd1cfa9518584ca7c6ea12a53e3a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd43f90afbc7736922202f864df8eec21') in 0.016099 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000421 seconds.
+  path: Assets/Drones/Course Assets/DemoCourse_LightingData/ReflectionProbe-0.exr
+  artifactKey: Guid(1671e036ec17fe445b07c3349e24eba9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/Course Assets/DemoCourse_LightingData/ReflectionProbe-0.exr using Guid(1671e036ec17fe445b07c3349e24eba9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cc0071bee09a2ad18c55f87d04dcce2') in 0.040092 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.493331 seconds.
+  path: Assets/Drones/Course Assets/Models/Big_Cube/Big_Cube.prefab
+  artifactKey: Guid(5b40de30fd4037448b8752e1b4daf1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/Course Assets/Models/Big_Cube/Big_Cube.prefab using Guid(5b40de30fd4037448b8752e1b4daf1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4483a7897eefbb29e200fcb37b6c465d') in 0.020571 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/Drones/Course Assets/Models/Big_Cube/pb_Mesh-1644856.asset
+  artifactKey: Guid(e8f8e97f549a75240ab01e2de1653975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/Course Assets/Models/Big_Cube/pb_Mesh-1644856.asset using Guid(e8f8e97f549a75240ab01e2de1653975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d74201a1b3bfd71ff72517ca0d5dbec') in 0.017365 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.958603 seconds.
+  path: Assets/Drones/DroneController2.0/Materials/TrailRenderer 1.mat
+  artifactKey: Guid(15acf209e4a1b4c4eb31ebe19d4632d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Materials/TrailRenderer 1.mat using Guid(15acf209e4a1b4c4eb31ebe19d4632d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '198829db53cdb87a0fc866c47e5b2c6e') in 0.040925 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Drones/DroneController2.0/Materials/TrailRenderer 2.mat
+  artifactKey: Guid(623410842a5f90f48bcac9b99da450bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Materials/TrailRenderer 2.mat using Guid(623410842a5f90f48bcac9b99da450bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b1face73dd15aae2b3f132df413ba9b') in 0.020275 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000472 seconds.
+  path: Assets/Drones/DroneController2.0/Materials/TrailRenderer 3.mat
+  artifactKey: Guid(a7632fc617dd58d45a0342ad1acd67df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Materials/TrailRenderer 3.mat using Guid(a7632fc617dd58d45a0342ad1acd67df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e573d44be7fb17987204c0afaea3689a') in 0.023302 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/Drones/DroneController2.0/Materials/TrailRenderer.mat
+  artifactKey: Guid(5bd9a5810d630b9409aa6d3fb901c719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Materials/TrailRenderer.mat using Guid(5bd9a5810d630b9409aa6d3fb901c719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '431754d7f559b212b5134e2280395d1d') in 0.040887 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Drones/DroneController2.0/Materials/TrailRenderer 4.mat
+  artifactKey: Guid(59e1cbddd592dc04c9650e67b14fc7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Materials/TrailRenderer 4.mat using Guid(59e1cbddd592dc04c9650e67b14fc7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40babfa44402bde524eb0becfc1ef8f5') in 0.037960 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.447996 seconds.
+  path: Assets/Drones/DroneController2.0/Models/Drone_nimble/Drone/drone.mat
+  artifactKey: Guid(00d72227b7ee483429f3a7da27293a81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Models/Drone_nimble/Drone/drone.mat using Guid(00d72227b7ee483429f3a7da27293a81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a12d9007412f597e6a7b3734f0283c4') in 0.028449 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Drones/DroneController2.0/Models/Drone_nimble/Drone/prop.FBX
+  artifactKey: Guid(af71a598e9ff6ab4f8005be27334f598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Models/Drone_nimble/Drone/prop.FBX using Guid(af71a598e9ff6ab4f8005be27334f598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe88e9894db02ea458fc33694b53c511') in 0.031434 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Drones/DroneController2.0/Models/Drone_nimble/Drone/propellers.mat
+  artifactKey: Guid(3afd37f072bf6c24b96a4cc6aa394a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Models/Drone_nimble/Drone/propellers.mat using Guid(3afd37f072bf6c24b96a4cc6aa394a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1a1b05fa4e6b6516e8ed20ef2916120') in 0.033740 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Drones/DroneController2.0/Models/Drone_nimble/Drone/drone_bump.png
+  artifactKey: Guid(44ac8e71f9ba8db48af7364ccac21514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Models/Drone_nimble/Drone/drone_bump.png using Guid(44ac8e71f9ba8db48af7364ccac21514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2e59394d9f7774ca546822984a18068') in 0.018469 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 72.248586 seconds.
+  path: Assets/Drones/DroneController2.0/Models/Drone_racing/Materials/emissive.mat
+  artifactKey: Guid(caaf5718349bacb4a8793e226ea4c845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Models/Drone_racing/Materials/emissive.mat using Guid(caaf5718349bacb4a8793e226ea4c845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e4bed08090b56912d936117d0afecb8') in 0.020170 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Drones/DroneController2.0/Models/Drone_racing/Materials/Unwrap_helper.mat
+  artifactKey: Guid(9357ae8eae04fe2488cfde6aa202f1ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Models/Drone_racing/Materials/Unwrap_helper.mat using Guid(9357ae8eae04fe2488cfde6aa202f1ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a83ab962a56b4348c24780b27d2d488a') in 0.015445 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/Drones/DroneController2.0/Models/Drone_racing/Materials/RacingDrone.mat
+  artifactKey: Guid(bd389a4d44d4a9f45afacbd5ade16321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Models/Drone_racing/Materials/RacingDrone.mat using Guid(bd389a4d44d4a9f45afacbd5ade16321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '001a882a3fefda1d225e8548e5a767f8') in 0.058350 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.335756 seconds.
+  path: Assets/Drones/DroneController2.0/Models/Drone_racing/Images/emissive_AlbedoTransparency.png
+  artifactKey: Guid(b7bd62aefc079f045acbf5699416f519) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Models/Drone_racing/Images/emissive_AlbedoTransparency.png using Guid(b7bd62aefc079f045acbf5699416f519) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2735499380c6c6536a35cbe068eff55') in 0.020684 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000466 seconds.
+  path: Assets/Drones/DroneController2.0/Models/Drone_racing/Images/emissive_Emission.png
+  artifactKey: Guid(929c4d6fa6ef98d43b13c31140fdca65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Models/Drone_racing/Images/emissive_Emission.png using Guid(929c4d6fa6ef98d43b13c31140fdca65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f30de0e3ae55c357434d9e783f8c967a') in 0.015176 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000710 seconds.
+  path: Assets/Drones/DroneController2.0/Models/Drone_racing/Images/RD_MetallicSmoothness.png
+  artifactKey: Guid(728d1bdeffb90cf4283bb6e7a098f4af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Models/Drone_racing/Images/RD_MetallicSmoothness.png using Guid(728d1bdeffb90cf4283bb6e7a098f4af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94c34774384ab9bbdeffd5402dffe712') in 0.019680 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Drones/DroneController2.0/Models/Drone_racing/Images/RD_Normal.png
+  artifactKey: Guid(6983ea36badc2e545ab4279a0ed5f4d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Models/Drone_racing/Images/RD_Normal.png using Guid(6983ea36badc2e545ab4279a0ed5f4d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aa0735301a9b789b03e6f33ab870be8') in 0.020869 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Drones/DroneController2.0/Models/Drone_racing/Images/emissive_Normal.png
+  artifactKey: Guid(162155215336f9a4a90ff3abcf0e1e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Models/Drone_racing/Images/emissive_Normal.png using Guid(162155215336f9a4a90ff3abcf0e1e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '086865521cadc0703cb79747e1753a0f') in 0.015344 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Drones/DroneController2.0/Models/Drone_racing/Images/emissive_AO.png
+  artifactKey: Guid(952c7edabea27f040a25261853c716db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Models/Drone_racing/Images/emissive_AO.png using Guid(952c7edabea27f040a25261853c716db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8c51f01f61a74da52df0c6bba64cbbb') in 0.013873 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000487 seconds.
+  path: Assets/Drones/DroneController2.0/Models/Drone_racing/Images/RD_AlbedoTransparency 1.png
+  artifactKey: Guid(c314fef9e3a1761449611c118b548298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Models/Drone_racing/Images/RD_AlbedoTransparency 1.png using Guid(c314fef9e3a1761449611c118b548298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40e48440b39a58cf0a3e8a6e43355472') in 0.015696 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 244.420729 seconds.
+  path: Assets/Images/drone-menu.png
+  artifactKey: Guid(77e3fa1f6dd29a04db8e2ee1e47765b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/drone-menu.png using Guid(77e3fa1f6dd29a04db8e2ee1e47765b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76faf5d4e632d15fc26b6b2a341bb574') in 0.019785 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.896261 seconds.
+  path: Assets/Images/drone-menu.png
+  artifactKey: Guid(77e3fa1f6dd29a04db8e2ee1e47765b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/drone-menu.png using Guid(77e3fa1f6dd29a04db8e2ee1e47765b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54c08c7da97b1e0504108a845a5ecf85') in 0.030169 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 123.781627 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca0d2861f60500f05bd29199894f7bb5') in 0.096738 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '289988fcecf3b00d1602f8d2b589f7dd') in 0.077036 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8c2210586957436df79bf961aeff06e') in 0.043035 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1280cc7be10b532b2897fc8654f95d3') in 0.044667 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 524.264373 seconds.
+  path: Assets/Drones/DroneController2.0/Drone_Body.physicMaterial
+  artifactKey: Guid(04dbe04591324544e91b46b6499d1547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Drone_Body.physicMaterial using Guid(04dbe04591324544e91b46b6499d1547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dd970b783d6c55f088c22b41b2b150e') in 0.015319 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Drones/DroneController2.0/Drone_Racing.prefab
+  artifactKey: Guid(666dd2b4392f0714eac49637de3da8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Drone_Racing.prefab using Guid(666dd2b4392f0714eac49637de3da8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f2a469940ed155e488dd2d841c05fb7') in 0.100261 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Drones/DroneController2.0/Drone_Nimble.prefab
+  artifactKey: Guid(e5c0cdd95b64b5f40ab05fb1d15ca1c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Drone_Nimble.prefab using Guid(e5c0cdd95b64b5f40ab05fb1d15ca1c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0abb62f443fc36980d55629731e78a93') in 0.035438 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.210935 seconds.
+  path: Assets/Drones/DroneController2.0/Scripts
+  artifactKey: Guid(c5c8695e984cf498dbe65e649c82a8d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Scripts using Guid(c5c8695e984cf498dbe65e649c82a8d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b14c9e43a762c46687253713e6aebcd8') in 0.009181 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.816480 seconds.
+  path: Assets/Drones/DroneController2.0/Scripts/InfoManagers
+  artifactKey: Guid(fca5a8d17f4687a4b986d11bac564201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Scripts/InfoManagers using Guid(fca5a8d17f4687a4b986d11bac564201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'accca1396e18ef5b65d1ab82c194ec50') in 0.008513 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.892986 seconds.
+  path: Assets/Drones/DroneController2.0/Scripts/InfoManagers/InputTypeManager.cs
+  artifactKey: Guid(2b7a49993922f084081df08ad639dde4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Drones/DroneController2.0/Scripts/InfoManagers/InputTypeManager.cs using Guid(2b7a49993922f084081df08ad639dde4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16cbcda4be789c80d62505d30aa8be37') in 0.012879 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003851 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Intern\Desktop\Orqa-praksa\FPV Drone Controller\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Intern\Desktop\Orqa-praksa\FPV Drone Controller\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.015 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1015ms)
+		BeginReloadAssembly (106ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (853ms)
+			LoadAssemblies (73ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (305ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (276ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (46ms)
+				ProcessInitializeOnLoadAttributes (214ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (18ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3044 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 154.0 MB.
+System memory in use after: 153.6 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 4032.
+Total: 2.583500 ms (FindLiveObjects: 0.234100 ms CreateObjectMapping: 0.101500 ms MarkObjects: 1.958900 ms  DeleteObjects: 0.287500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004866 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Intern\Desktop\Orqa-praksa\FPV Drone Controller\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Intern\Desktop\Orqa-praksa\FPV Drone Controller\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.940 seconds
+Domain Reload Profiling:
+	ReloadAssembly (941ms)
+		BeginReloadAssembly (94ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (786ms)
+			LoadAssemblies (79ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (303ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (269ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (49ms)
+				ProcessInitializeOnLoadAttributes (204ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3013 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.0 MB.
+System memory in use after: 152.6 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 4035.
+Total: 3.002800 ms (FindLiveObjects: 0.466600 ms CreateObjectMapping: 0.175800 ms MarkObjects: 2.063300 ms  DeleteObjects: 0.296200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003945 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Intern\Desktop\Orqa-praksa\FPV Drone Controller\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Intern\Desktop\Orqa-praksa\FPV Drone Controller\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.953 seconds
+Domain Reload Profiling:
+	ReloadAssembly (954ms)
+		BeginReloadAssembly (104ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (793ms)
+			LoadAssemblies (74ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (311ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (267ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (52ms)
+				ProcessInitializeOnLoadAttributes (199ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3013 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.1 MB.
+System memory in use after: 152.7 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 4038.
+Total: 3.030000 ms (FindLiveObjects: 0.235000 ms CreateObjectMapping: 0.092400 ms MarkObjects: 2.304800 ms  DeleteObjects: 0.396800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003791 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Intern\Desktop\Orqa-praksa\FPV Drone Controller\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Intern\Desktop\Orqa-praksa\FPV Drone Controller\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.964 seconds
+Domain Reload Profiling:
+	ReloadAssembly (964ms)
+		BeginReloadAssembly (99ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (806ms)
+			LoadAssemblies (74ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (314ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (271ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (48ms)
+				ProcessInitializeOnLoadAttributes (207ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (16ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.36 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3013 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.1 MB.
+System memory in use after: 152.7 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 4041.
+Total: 2.590200 ms (FindLiveObjects: 0.353600 ms CreateObjectMapping: 0.115000 ms MarkObjects: 1.874100 ms  DeleteObjects: 0.246000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
